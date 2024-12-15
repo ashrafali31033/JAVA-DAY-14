@@ -9,9 +9,8 @@ public class thread
     {
     public static void main(String[] args) {
         a r=new a();
-        Thread s=new Thread(r);
-        s.start();
-        s.start();
+        
+       
         s.run();
     }
 }
